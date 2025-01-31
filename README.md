@@ -37,4 +37,17 @@
 | 21  | [ft_toupper] |   |     |                                                                                      |   |     |                                                                                          |
 | 22  | [ft_tolower] |   |     |                                                                                      |   |     |                                                                                          |
 | 23  | [ft_calloc]   |   |     |                                                                                      |   |     |                                                                                          |
-| 24  | [ft_strdup]  |   |     |                                                                                      |   |     |                                                                                          |
+| 24  | [ft_strdup]  |   |     |                                                                                      |   |     |    |
+
+## Instructions
+To compile the code, run `make` in the terminal. This will create a library called `libft.a`.
+
+To clean the object files and library, run `make clean` and `make fclean`, respectively.
+
+The library is accompanied by a header file called libft.h, which contains prototypes for all the functions in the library. To use the library in your project, include the header file and link to the library as described above.
+
+## Grade: 100 / 100
+
+## Used Tests
+- Francinette: https://github.com/xicodomingues/francinette
+- libftTester: https://github.com/Tripouille/libftTester
