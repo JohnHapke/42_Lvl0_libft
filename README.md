@@ -46,7 +46,7 @@ To clean the object files and library, run `make clean` and `make fclean`, respe
 
 The library is accompanied by a header file called libft.h, which contains prototypes for all the functions in the library. To use the library in your project, include the header file and link to the library as described above.
 
-## Grade: 100 / 100
+## Grade: 125 / 100
 
 ## Used Tests
 - Francinette: https://github.com/xicodomingues/francinette
